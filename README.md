@@ -3,11 +3,12 @@
 This repository contains the official code for the paper [Training threshold Boolean networks: applications to gene regulatory network modeling]()
 
 Author: 
-[Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3</sup>, &nbsp;
+[Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
 
 <sup>1</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
 <sup>2</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
-<sup>3</sup> Data Observatory Foundation, Santiago, Chile. <br>
+<sup>3</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
+<sup>4</sup> Data Observatory Foundation, Santiago, Chile. <br>
 
 ## Setup
 
