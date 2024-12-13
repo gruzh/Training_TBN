@@ -1,4 +1,4 @@
-# Training threshold Boolean networks: applications to gene regulatory network modeling*
+# Training threshold Boolean networks: applications to gene regulatory network modeling
 
 This repository contains the official code for the paper [Training threshold Boolean networks: applications to gene regulatory network modeling]()
 
