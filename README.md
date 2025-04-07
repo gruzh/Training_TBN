@@ -19,7 +19,7 @@ Author:
 
 ## Citation
 If you find this code or paper useful, please use the following reference:
-
+````{verbatim}
 @INPROCEEDINGS{10944722,
   author={Ruz, Gonzalo A.},
   booktitle={2025 59th Annual Conference on Information Sciences and Systems (CISS)}, 
@@ -31,7 +31,7 @@ If you find this code or paper useful, please use the following reference:
   keywords={Training;Codes;Biological system modeling;Machine learning;Biological systems;Flowering plants;Vectors;Regulation;Object recognition;Biological information theory;Boolean networks;threshold Boolean networks;gene regulatory networks;the perceptron},
   doi={10.1109/CISS64860.2025.10944722}
 }
-
+````
 
 <!---
 
